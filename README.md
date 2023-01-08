@@ -1,7 +1,7 @@
+
+![Call Me Quick Fuse](https://media.licdn.com/dms/image/D4D16AQFSaqSirDMDlQ/profile-displaybackgroundimage-shrink_350_1400/0/1667133849787?e=1678924800&v=beta&t=6zPA0QSQL4bhXlNs9KVXA9lM4r6UkF4Rn5ZDGF3uh3k)
 ### Hi there 👋, my name is Mawuli Agbenyo
 #### Call Me Quick Fuse
-![Call Me Quick Fuse](https://media.licdn.com/dms/image/D4D16AQFSaqSirDMDlQ/profile-displaybackgroundimage-shrink_350_1400/0/1667133849787?e=1678924800&v=beta&t=6zPA0QSQL4bhXlNs9KVXA9lM4r6UkF4Rn5ZDGF3uh3k)
-
 I am a programmer with two years of Cyber Security Work Experience. I Possess System and Web Hacking skills. I am Fluent in English. And Keen to pursue a career in Cyber Security
 
 Skills: PHP/ PYTHON/ JS / CS/ THM /HTB
